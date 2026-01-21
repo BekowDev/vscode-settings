@@ -1,4 +1,3 @@
-apc
-material-icon-theme
-Material Theme Kit
 Prettier
+material-icon-theme
+Webstorm NewUI Theme
