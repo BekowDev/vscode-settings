@@ -18,7 +18,7 @@
 
     // Editor
     "editor.fontFamily": "SF Mono",
-    "editor.fontSize": 16,
+    "editor.fontSize": 14,
     "editor.lineHeight": 1.6,
     "editor.letterSpacing": 0,
     "editor.fontLigatures": false,
@@ -50,21 +50,25 @@
     "editor.matchBrackets": "never",
     "editor.bracketPairColorization.enabled": true,
     "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveBracketPair": false,
 
     // Folder and file settings
     "workbench.iconTheme": "material-icon-theme",
     "material-icon-theme.hidesExplorerArrows": true,
     "workbench.tree.indent": 30,
+    "material-icon-theme.activeIconPack": "nest",
     "workbench.tree.renderIndentGuides": "always",
-    // "material-icon-theme.folders.color": "#ffffff",
+    "material-icon-theme.folders.color": "#909090",
+    "workbench.tree.enableStickyScroll": false,
     "workbench.colorCustomizations": {
         "tree.indentGuidesStroke": "#fff",
     },
-    "workbench.tree.enableStickyScroll": false,
 
     // Others My own settings
+    "window.zoomLevel": 1.5,
     "python.defaultInterpreterPath": "/usr/bin/python3",
-    "editor.mouseWheelZoom": true,
+    // "editor.mouseWheelZoom": true,
     "editor.formatOnSave": true,
     "workbench.startupEditor": "none",
     "workbench.tips.enabled": false,
@@ -76,6 +80,5 @@
     "chat.commandCenter.enabled": false,
     "files.trimTrailingWhitespace": true,
     "files.insertFinalNewline": true,
-    "workbench.sideBar.location": "right",
     "workbench.colorTheme": "Webstorm NewUI Theme",
 }
